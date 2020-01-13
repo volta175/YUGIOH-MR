@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: De-Fusion
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: Target 1 Fusion Monster on the field; return that target to the Extra
+    Deck, then, if all the Fusion Materials that were used for its Fusion Summon are
+    in your Graveyard, you can Special Summon all of them.
+  CardImage: {fileID: 21300000, guid: 78dfb866781f31b45b4fe43a836f8277, type: 3}
+  cardType1: Spell
+  cardType1Num: 4
+  cardType2: Normal
+  cardType2Num: 1
+  level: 0
+  monsterAttribute: 
+  monsterAttributeNum: 0
+  monsterType: 
+  monsterTypeNum: 0
+  ATK: 0
+  DEF: 0
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: Quick Play
+  spellTypeNum: 5
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 4

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: King's Knight
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: 'When this card is Normal Summoned while you control "Queen''s Knight":
+    You can Special Summon 1 "Jack''s Knight" from your Deck.'
+  CardImage: {fileID: 21300000, guid: adeb6498110fdd943a174a2097cb3902, type: 3}
+  cardType1: Monster
+  cardType1Num: 1
+  cardType2: Effect
+  cardType2Num: 2
+  level: 4
+  monsterAttribute: Light
+  monsterAttributeNum: 1
+  monsterType: Warrior
+  monsterTypeNum: 19
+  ATK: 1600
+  DEF: 1400
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: 
+  spellTypeNum: 0
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 13

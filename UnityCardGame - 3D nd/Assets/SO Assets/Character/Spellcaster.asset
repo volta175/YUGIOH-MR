@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db404fa551ac4dd478fcd86fbbf486c9, type: 3}
+  m_Name: Spellcaster
+  m_EditorClassIdentifier: 
+  Class: 0
+  ClassName: Spellcaster
+  MaxHealth: 8000
+  AvatarBGImage: {fileID: -4364034832326165938, guid: 87c68a4c3dedb7247b17e5f9a5856b69,
+    type: 3}
+  AvatarImage: {fileID: -2729143008722599882, guid: 1123a56511c3f354986b7f5803fa566b,
+    type: 3}

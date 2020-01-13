@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Amplifier
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: You can only equip this card to "Jinzo". As long as this card is equipped,
+    the effects of Trap Cards controlled by the equipped monster's controller are
+    not negated by the effect of the equipped monster. When this card is removed from
+    the field, the equipped monster is destroyed. This card's activation and effect
+    cannot be negated by any other card.
+  CardImage: {fileID: 21300000, guid: c4397ea71d5bc58479782cf11faf83ef, type: 3}
+  cardType1: Spell
+  cardType1Num: 4
+  cardType2: Normal
+  cardType2Num: 1
+  level: 0
+  monsterAttribute: 
+  monsterAttributeNum: 0
+  monsterType: 
+  monsterTypeNum: 0
+  ATK: 0
+  DEF: 0
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: Equip
+  spellTypeNum: 2
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 6

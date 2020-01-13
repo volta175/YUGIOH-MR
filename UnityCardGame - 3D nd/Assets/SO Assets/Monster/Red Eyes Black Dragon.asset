@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Red Eyes Black Dragon
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: A ferocious dragon with a deadly attack.
+  CardImage: {fileID: 21300000, guid: 39621f9447045e24c8858bf9ae587331, type: 3}
+  Animation: {fileID: 6375183470863934931, guid: 95ef60495ac4b5d44b3a5bd5c8dab1f8,
+    type: 3}
+  cardType1: Monster
+  cardType1Num: 1
+  cardType2: Normal
+  cardType2Num: 1
+  level: 7
+  monsterAttribute: Dark
+  monsterAttributePic: {fileID: 21300000, guid: 7b080fcde1ca09146988fe64a49ee520,
+    type: 3}
+  monsterAttributeNum: 2
+  monsterType: Dragon
+  monsterTypeNum: 11
+  ATK: 2400
+  DEF: 2000
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: 
+  spellTypeNum: 0
+  CreatureScriptName: 
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 13

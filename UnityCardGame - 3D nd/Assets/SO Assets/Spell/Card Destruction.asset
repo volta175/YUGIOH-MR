@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Card Destruction
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: Both players discard as many cards as possible from their hands, then
+    each player draws the same number of cards they discarded.
+  CardImage: {fileID: 21300000, guid: 53278e39d4240b142895b4fb15dc4a7f, type: 3}
+  cardType1: Spell
+  cardType1Num: 4
+  cardType2: Normal
+  cardType2Num: 1
+  level: 0
+  monsterAttribute: 
+  monsterAttributeNum: 0
+  monsterType: 
+  monsterTypeNum: 0
+  ATK: 0
+  DEF: 0
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: Normal
+  spellTypeNum: 1
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0

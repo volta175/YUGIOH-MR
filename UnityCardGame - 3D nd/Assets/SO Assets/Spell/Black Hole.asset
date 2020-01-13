@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Black Hole
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: 
+  CardImage: {fileID: 21300000, guid: 7309bbf2c6ae7bb40a2f37879b21f56a, type: 3}
+  Animation: {fileID: 0}
+  cardType1: Spell
+  cardType1Num: 4
+  cardType2: Normal
+  cardType2Num: 1
+  level: 0
+  monsterAttribute: 
+  monsterAttributePic: {fileID: 0}
+  monsterAttributeNum: 0
+  monsterType: 
+  monsterTypeNum: 0
+  ATK: 0
+  DEF: 0
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: 
+  spellTypeNum: 0
+  CreatureScriptName: 
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 1

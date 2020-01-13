@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Stop Defense
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: Select 1 Defense Position monster on your opponent's side of the field
+    and change it to Attack Position.
+  CardImage: {fileID: 21300000, guid: a5958bef565c9ca46b1d5d8073072363, type: 3}
+  cardType1: Spell
+  cardType1Num: 4
+  cardType2: Normal
+  cardType2Num: 1
+  level: 0
+  monsterAttribute: 
+  monsterAttributeNum: 0
+  monsterType: 
+  monsterTypeNum: 0
+  ATK: 0
+  DEF: 0
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: Normal
+  spellTypeNum: 1
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 5
