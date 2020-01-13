@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Gift of The Mystical Elf
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: Increase your Life Points by 300 points for each monster on the field.
+  CardImage: {fileID: 21300000, guid: d3d869ebfe95f7c4c96cc167845392ed, type: 3}
+  cardType1: Trap
+  cardType1Num: 5
+  cardType2: Normal
+  cardType2Num: 1
+  level: 0
+  monsterAttribute: 
+  monsterAttributeNum: 0
+  monsterType: 
+  monsterTypeNum: 0
+  ATK: 0
+  DEF: 0
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: Normal
+  spellTypeNum: 1
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 12

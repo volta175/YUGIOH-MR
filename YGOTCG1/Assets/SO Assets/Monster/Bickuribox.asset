@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Bickuribox
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: '"Crass Clown" + "Dream Clown"'
+  CardImage: {fileID: 21300000, guid: ddeff5ea631adee43a3c38b406f5c7d4, type: 3}
+  cardType1: Fusion
+  cardType1Num: 3
+  cardType2: Normal
+  cardType2Num: 1
+  level: 7
+  monsterAttribute: Dark
+  monsterAttributePic: {fileID: 21300000, guid: 0367cbe1b9d8125469c0cc0cc3c89355,
+    type: 3}
+  monsterAttributeNum: 2
+  monsterType: Fiend
+  monsterTypeNum: 3
+  ATK: 2300
+  DEF: 2000
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: 
+  spellTypeNum: 0
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 13

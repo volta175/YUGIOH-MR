@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Valkyrion the Magna Warrior
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from
+    your hand) by Tributing 1 "Alpha The Magnet Warrior", "Beta The Magnet Warrior",
+    and "Gamma The Magnet Warrior" from your hand and/or field. You can Tribute this
+    card, then target 1 "Alpha The Magnet Warrior", "Beta The Magnet Warrior", and
+    "Gamma The Magnet Warrior" in your Graveyard; Special Summon them.
+  CardImage: {fileID: 21300000, guid: 47cc89e5d55301c46b0d104a26b5b120, type: 3}
+  cardType1: Monster
+  cardType1Num: 1
+  cardType2: Effect
+  cardType2Num: 2
+  level: 8
+  monsterAttribute: Earth
+  monsterAttributePic: {fileID: 21300000, guid: 6a837aad8b460c94fb34927cc97e6ca8,
+    type: 3}
+  monsterAttributeNum: 6
+  monsterType: Rock
+  monsterTypeNum: 23
+  ATK: 3500
+  DEF: 3850
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: 
+  spellTypeNum: 0
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 13

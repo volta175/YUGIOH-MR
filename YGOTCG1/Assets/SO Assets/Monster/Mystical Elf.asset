@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcb0e1775339f4b85807337965ee17, type: 3}
+  m_Name: Mystical Elf
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: A delicate elf that lacks offense, but has a terrific defense backed
+    by mystical power.
+  CardImage: {fileID: 21300000, guid: b1852e56f822a2f4aa56aef5f35ac851, type: 3}
+  cardType1: Monster
+  cardType1Num: 1
+  cardType2: Normal
+  cardType2Num: 1
+  level: 4
+  monsterAttribute: Light
+  monsterAttributePic: {fileID: 21300000, guid: 51d5c6c038283e040a9acc7efb8bae1a,
+    type: 3}
+  monsterAttributeNum: 1
+  monsterType: Spellcaster
+  monsterTypeNum: 2
+  ATK: 800
+  DEF: 2000
+  AtkFor1Turn: 1
+  MonsterSriptName: 
+  specialCreatureAmount: 0
+  spellType: 
+  spellTypeNum: 0
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 13
